@@ -39,8 +39,18 @@ This is a simple ATM simulator built using Streamlit, a Python library for creat
 
 ## Example usage
 
+
+1. Checking the balance:
+
 ![Image Alt Text](/imgs/streamlit1.png)
 
+2. Depositing amount
+
+![Image Alt Text](/imgs/streamlit2.png)
+
+3. Withdrawing amount
+
+![Image Alt Text](/imgs/streamlit3.png)
 
 
 ## Contributing
