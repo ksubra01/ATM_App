@@ -37,6 +37,22 @@ This is a simple ATM simulator built using Streamlit, a Python library for creat
 3. Once the PIN is accepted, you will be presented with options to check balance, deposit money, or withdraw money.
 4. Select the desired option and follow the instructions on the screen.
 
+
+## Bank Accounts
+
+The following bank accounts are available in the simulator:
+
+1. Card Number: 1234, PIN: 4321, Initial Balance: $1000
+2. Card Number: 5678, PIN: 8765, Initial Balance: $1500
+3. Card Number: 9012, PIN: 2109, Initial Balance: $2000
+4. Card Number: 3456, PIN: 6543, Initial Balance: $2500
+5. Card Number: 7890, PIN: 0987, Initial Balance: $3000
+6. Card Number: 2345, PIN: 5432, Initial Balance: $3500
+7. Card Number: 6789, PIN: 9876, Initial Balance: $4000
+8. Card Number: 0123, PIN: 3210, Initial Balance: $4500
+9. Card Number: 4567, PIN: 7654, Initial Balance: $5000
+10. Card Number: 8901, PIN: 1098, Initial Balance: $5500
+
 ## Example usage
 
 
