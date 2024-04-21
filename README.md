@@ -39,7 +39,7 @@ This is a simple ATM simulator built using Streamlit, a Python library for creat
 
 ## Example usage
 
-![Image Alt Text](streamlit1.png)
+![Image Alt Text](/imgs/streamlit1.png)
 
 
 
