@@ -37,6 +37,12 @@ This is a simple ATM simulator built using Streamlit, a Python library for creat
 3. Once the PIN is accepted, you will be presented with options to check balance, deposit money, or withdraw money.
 4. Select the desired option and follow the instructions on the screen.
 
+## Example usage
+
+![Image Alt Text](streamlit1.png)
+
+
+
 ## Contributing
 
 Contributions are welcome! If you find any bugs or have suggestions for improvements, please open an issue or submit a pull request.
